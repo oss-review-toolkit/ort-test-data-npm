@@ -1,0 +1,6 @@
+[submodule "long.js"]
+	path = long.js
+	url = https://github.com/dcodeIO/long.js.git
+[submodule "entities"]
+	path = entities
+	url = https://github.com/fb55/entities.git
