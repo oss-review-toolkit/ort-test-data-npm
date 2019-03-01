@@ -1,0 +1,16 @@
+{
+  "name": "npm-test-project",
+  "version": "1.0.0",
+  "description": "NPM test project.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heremaps/oss-review-toolkit-test-data-npm.git"
+  },
+  "license": "Apache-2.0",
+  "dependencies": {
+    "cheerio": "1.0.0-rc.1"
+  },
+  "devDependencies": {
+    "cson": "~4.1.0"
+  }
+}
