@@ -4,7 +4,7 @@
   "description": "NPM test project.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/heremaps/oss-review-toolkit-test-data-npm.git"
+    "url": "https://github.com/oss-review-toolkit/ort-test-data-npm.git"
   },
   "license": "Apache-2.0",
   "dependencies": {

@@ -1,6 +1,6 @@
 # OSS Review Toolkit Test Data
 
-This repository contains test data to be used by the [OSS Review Toolkit](https://github.com/heremaps/oss-review-toolkit).
+This repository contains test data to be used by the [OSS Review Toolkit](https://github.com/oss-review-toolkit/ort).
 
 ## License
 
