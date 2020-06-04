@@ -1,3 +1,6 @@
 [submodule "long.js"]
 	path = long.js
 	url = https://github.com/dcodeIO/long.js.git
+[submodule "isarray"]
+	path = isarray
+	url = https://github.com/juliangruber/isarray.git
